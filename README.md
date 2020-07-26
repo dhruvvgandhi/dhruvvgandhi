@@ -1,4 +1,4 @@
-### Hi there 👋  
+### Hello there  
 
 <!--
 **Dhruv-Gandhi/Dhruv-Gandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 **My Introduction:**
 
-Hello, I'm Dhruv Gandhi, A am Student and Lerner 🚀 From Surat,Gujarat, India, currently 💻 doing my undergraduate B-Tech Computer Engineering (Final year) at � [@PP_Savani_University](https://ppsu.ac.in)👧💻, and I am passionate about technology and want to learn & explore new technologies.I have experiencs of Full Stack Developer at� [@Board_Infinity](https://www.boardinfinity.com/) ,Intern 👧💻,  I'm a Teamleader of Techwiz and BrainTeasers in last semester �. Beside's My B-TECH, I love photography My profile Photography Page� [@apnaclicks.in](https://www.instagram.com/apnaclicks.in/) ,👧💻,CyberSecurity and playing Cricket.
+Hello, I'm Dhruv Gandhi, A am Student and Lerner  From Surat,Gujarat, India, currently � doing my undergraduate B-Tech Computer Engineering (Final year) at � [@PP_Savani_University](https://ppsu.ac.in) �, and I am passionate about technology and want to learn & explore new technologies.I have experiencs of Full Stack Developer at� [@Board_Infinity](https://www.boardinfinity.com/) ,Intern �,  I'm a Teamleader of Techwiz and BrainTeasers in last semester. Beside's My B-TECH, I love photography My profile Photography Page� [@apnaclicks.in](https://www.instagram.com/apnaclicks.in/), �,CyberSecurity and playing Cricket.
 
 
 ## My GitHub contributions as a Game of Life
@@ -69,14 +69,14 @@ Hello, I'm Dhruv Gandhi, A am Student and Lerner 🚀 From Surat,Gujarat, India,
   
   <img align="right" alt="GIF" src="https://www.bing.com/images/search?view=detailV2&ccid=ZTa6jW4M&id=DDC6ACF27200E95F0217580CF085636F7A695CE4&thid=OIP.ZTa6jW4MiORUmhAotMDXawHaHa&mediaurl=https%3a%2f%2fs3-eu-west-1.amazonaws.com%2fsage-wordpress-source%2fsageone-uk-wordpress%2fwp-content%2fuploads%2f2017%2f10%2fSageONE_uk_Postplan23-29-outubro_Cyber-Security-to-Protect-Business-Online-Protect-your-Devices-Workshop-London_twitter_facebook.gif&exph=1080&expw=1080&q=cybersecurity+gif&simid=608047230261461347&ck=B07B23D2B8AA1AFD05E627DE988FD50D&selectedIndex=27" />
 
-- 👧 I had previously participated in national level Hackathon and state level Hackathon 
-- 🌱 I’m currently learning ML,DataScience and cybersecurity
-- 💬 Ask me about anything, I am happy to help
-- 👯 I’m looking to collaborate on making any tech community
-- 😄 Pronouns She/Her
-- ⚡️ Fun-Fact  aI started writing blogs, [blog on instagram ](https://www.instagram.com/neoteric_thoughts/) from last few years Also made a photography insta account [Apnaclick.in](https://www.instagram.com/apnaclicks.in/)
-- 📫 How to reach me:dhruvgandhi75675@gmail.com
-- 📝[Resume](https://www.linkedin.com/in/dhruvvgandhi/)
+- I had previously participated in national level Hackathon and state level Hackathon 
+- I am currently learning ML,DataScience and cybersecurity
+- Ask me about anything, I am happy to help
+- I am looking to collaborate on making any tech community
+- Pronouns She/Her
+- Fun-Fact i started my writing blogs, [blog on instagram ](https://www.instagram.com/neoteric_thoughts/) from last few years Also made a photography insta account [Apnaclick.in](https://www.instagram.com/apnaclicks.in/)
+- How to reach me:dhruvgandhi75675@gmail.com
+- [Resume](https://www.linkedin.com/in/dhruvvgandhi/)
 
 
 

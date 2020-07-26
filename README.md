@@ -67,9 +67,9 @@ Hello, I'm Dhruv Gandhi, A am Student and Lerner  From Surat,Gujarat, India, cur
 
 **Talking about Personal Stuffs:**
   
-  <img align="right" alt="GIF" src="https://www.bing.com/images/search?view=detailV2&ccid=ZTa6jW4M&id=DDC6ACF27200E95F0217580CF085636F7A695CE4&thid=OIP.ZTa6jW4MiORUmhAotMDXawHaHa&mediaurl=https%3a%2f%2fs3-eu-west-1.amazonaws.com%2fsage-wordpress-source%2fsageone-uk-wordpress%2fwp-content%2fuploads%2f2017%2f10%2fSageONE_uk_Postplan23-29-outubro_Cyber-Security-to-Protect-Business-Online-Protect-your-Devices-Workshop-London_twitter_facebook.gif&exph=1080&expw=1080&q=cybersecurity+gif&simid=608047230261461347&ck=B07B23D2B8AA1AFD05E627DE988FD50D&selectedIndex=27" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/hun4DFmfnDId3lid5b/giphy.gif" />
 
-- I had previously participated in national level Hackathon and state level Hackathon 
+- I had previously participated in national level Hackathon and state level Hackathon
 - I am currently learning ML,DataScience and cybersecurity
 - Ask me about anything, I am happy to help
 - I am looking to collaborate on making any tech community

@@ -105,13 +105,13 @@ Hello, I'm Dhruv Gandhi, A am Student and Lerner 🚀 From Surat,Gujarat, India,
 </p>
 
 
-[ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv1101&repo=steganography-and-encryption&theme=tokyonight)
-[ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv1101&repo=Wireless_Car&theme=tokyonight)
-[ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv1101&repo=django-python-project&theme=tokyonight)
-[ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv1101&repo=Reciprocity&theme=tokyonight)
-[ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv1101&repo=hms-hospitalmanagementsytem-in-java&theme=tokyonight)
-[ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv1101&repo=Android_Project_Create-VPN&theme=tokyonight)
-[ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv1101&repo=Railway_Inquire_With_GUI&theme=tokyonight)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv1101&repo=steganography-and-encryption&theme=tokyonight)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv1101&repo=Wireless_Car&theme=tokyonight)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv1101&repo=django-python-project&theme=tokyonight)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv1101&repo=Reciprocity&theme=tokyonight)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv1101&repo=hms-hospitalmanagementsytem-in-java&theme=tokyonight)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv1101&repo=Android_Project_Create-VPN&theme=tokyonight)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv1101&repo=Railway_Inquire_With_GUI&theme=tokyonight)]
 
 
 

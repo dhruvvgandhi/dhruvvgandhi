@@ -1,19 +1,8 @@
-### Hello there  
+### Hello there👋  
 
 <!--
 **Dhruv-Gandhi/Dhruv-Gandhi** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- ðŸ”­ Iâ€™m currently working on ...
-- ðŸŒ± Iâ€™m currently learning ...
-
-- ðŸ¤” Iâ€™m looking for help with ...
-- ðŸ’¬ Ask me about ...
-- ðŸ“« How to reach me: ...
--  Pronouns: ...
-- âš¡ Fun fact: ...
--->
 <p align="center">
  
  
@@ -70,12 +59,12 @@ Hello, I'm Dhruv Gandhi, A am Student and Lerner  From Surat,Gujarat, India, cur
   <img align="right" alt="GIF" src="https://media.giphy.com/media/hun4DFmfnDId3lid5b/giphy.gif" />
 
 - I had previously participated in national level Hackathon and state level Hackathon
-- I am currently learning ML,DataScience and cybersecurity
-- Ask me about anything, I am happy to help
+- I am currently learning ML,DataScience and Cybersecurity
+- 💬 Ask me about anything, I am happy to help
 - I am looking to collaborate on making any tech community
 - Fun-Fact i started my writing blogs, [blog on instagram ](https://www.instagram.com/neoteric_thoughts/) from last few years Also made a photography insta account [Apnaclick.in](https://www.instagram.com/apnaclicks.in/)
-- How to reach me:dhruvgandhi75675@gmail.com
-- [Resume](https://www.linkedin.com/in/dhruvvgandhi/)
+- 📫 How to reach me:dhruvgandhi75675@gmail.com
+- 📝[Get my Resume click on this link](https://www.linkedin.com/in/dhruvvgandhi/)
 
 
 

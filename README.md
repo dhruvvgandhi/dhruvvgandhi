@@ -68,7 +68,7 @@ Hello, I'm Dhruv Gandhi, A am Student and Lerner  From Surat,Gujarat, India, cur
 
 <br>
 <br>
-## Connect with Me
+**Connect with Me:**
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 

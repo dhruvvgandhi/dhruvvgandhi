@@ -1,18 +1,18 @@
 ### Hello there  
 
 <!--
-**Dhruv-Gandhi/Dhruv-Gandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dhruv-Gandhi/Dhruv-Gandhi** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- ðŸ”­ Iâ€™m currently working on ...
+- ðŸŒ± Iâ€™m currently learning ...
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- ðŸ¤” Iâ€™m looking for help with ...
+- ðŸ’¬ Ask me about ...
+- ðŸ“« How to reach me: ...
 -  Pronouns: ...
-- ⚡ Fun fact: ...
+- âš¡ Fun fact: ...
 -->
 <p align="center">
  
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Dhruv1101/count.svg" />
+  <img src="https://profile-counter.glitch.me/dhruvvgandhi/count.svg" />
 </p>
 
 
@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 
 **My Introduction:**
 
-Hello, I'm Dhruv Gandhi, A am Student and Lerner  From Surat,Gujarat, India, currently � doing my undergraduate B-Tech Computer Engineering (Final year) at � [@PP_Savani_University](https://ppsu.ac.in) �, and I am passionate about technology and want to learn & explore new technologies.I have experiencs of Full Stack Developer at� [@Board_Infinity](https://www.boardinfinity.com/) ,Intern �,  I'm a Teamleader of Techwiz and BrainTeasers in last semester. Beside's My B-TECH, I love photography My profile Photography Page� [@apnaclicks.in](https://www.instagram.com/apnaclicks.in/), �,CyberSecurity and playing Cricket.
+Hello, I'm Dhruv Gandhi, A am Student and Lerner  From Surat,Gujarat, India, currently » doing my undergraduate B-Tech Computer Engineering (Final year) at » [@PP_Savani_University](https://ppsu.ac.in) », and I am passionate about technology and want to learn & explore new technologies.I have experiencs of Full Stack Developer at» [@Board_Infinity](https://www.boardinfinity.com/) ,Intern »,  I'm a Teamleader of Techwiz and BrainTeasers in last semester. Beside's My B-TECH, I love photography My profile Photography Page» [@apnaclicks.in](https://www.instagram.com/apnaclicks.in/), »,CyberSecurity and playing Cricket.
 
 
 ## My GitHub contributions as a Game of Life
-[![GitHub Game of Life](https://github4life.herokuapp.com/Dhruv1101.gif?z=6)](https://github4life.herokuapp.com/Dhruv1101)
+[![GitHub Game of Life](https://github4life.herokuapp.com/dhruvvgandhi.gif?z=6)](https://github4life.herokuapp.com/dhruvvgandhi)
 
 
 
@@ -106,17 +106,17 @@ Hello, I'm Dhruv Gandhi, A am Student and Lerner  From Surat,Gujarat, India, cur
 </p>
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv1101&repo=steganography-and-encryption&theme=tokyonight)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv1101&repo=Wireless_Car&theme=tokyonight)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv1101&repo=django-python-project&theme=tokyonight)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv1101&repo=Reciprocity&theme=tokyonight)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv1101&repo=hms-hospitalmanagementsytem-in-java&theme=tokyonight)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv1101&repo=Android_Project_Create-VPN&theme=tokyonight)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv1101&repo=Railway_Inquire_With_GUI&theme=tokyonight)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=steganography-and-encryption&theme=tokyonight)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Wireless_Car&theme=tokyonight)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=django-python-project&theme=tokyonight)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Reciprocity&theme=tokyonight)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=hms-hospitalmanagementsytem-in-java&theme=tokyonight)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Android_Project_Create-VPN&theme=tokyonight)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Railway_Inquire_With_GUI&theme=tokyonight)]
 
 
 
 
 
-![Dhruv_Gandhi's github stats](https://github-readme-stats.vercel.app/api?username=dhruv1101&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv1101&theme=tokyonight)
+![Dhruv_Gandhi's github stats](https://github-readme-stats.vercel.app/api?username=dhruvvgandhi&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvvgandhi&theme=tokyonight)

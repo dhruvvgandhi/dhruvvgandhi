@@ -55,7 +55,6 @@ Hello, I'm Dhruv Gandhi, A am Student and Lerner  From Surat,Gujarat, India, cur
 
 
 **Talking about Personal Stuffs:**
-  
   <img align="right" alt="GIF" src="https://cdn-images-1.medium.com/max/1200/1*2xJ-TxeRusymnG9D_gY9pw.gif" />
 - I had previously participated in national level Hackathon and state level Hackathon
 - I am currently learning ML,DataScience and Cybersecurity
@@ -64,10 +63,9 @@ Hello, I'm Dhruv Gandhi, A am Student and Lerner  From Surat,Gujarat, India, cur
 - Fun-Fact i started my writing blogs, [blog on instagram ](https://www.instagram.com/neoteric_thoughts/) from last few years Also made a photography insta account [Apnaclick.in](https://www.instagram.com/apnaclicks.in/)
 - 📫 How to reach me:dhruvgandhi75675@gmail.com
 - 📝[Get my Resume click on this link](https://www.linkedin.com/in/dhruvvgandhi/)
-
-
 <br>
 <br>
+
 **Connect with Me:**
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)

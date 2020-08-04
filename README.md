@@ -1,7 +1,7 @@
 ### Hello there👋  
 
 <!--
-**Dhruv-Gandhi/Dhruv-Gandhi** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dhruv-Gandhi/Dhruv-Gandhi** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.--->
 
 <p align="center">
  

@@ -113,12 +113,11 @@ Hello, I'm Dhruv Gandhi, A am Student and Lerner  From Surat,Gujarat, India, cur
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvvgandhi&theme=tokyonight)
 
 
-
-
-
+**Conclusion**
 
 <p align="center">
- <img src="https://i.pinimg.com/originals/96/14/fa/9614fa802daad49000f79cc1fec29689.gif" alt="Thankyou"> 
+ <img src="https://i.pinimg.com/originals/96/14/fa/9614fa802daad49000f79cc1fec29689.gif"> 
  <h2 align="center">I am ThankFul To You For Visiting My GITHUB Profile</h2>
+  <h2 align="center">Hope You Like My GITHUB Profile</h2>
  <p align="center">Dhruv Vimeshkumar Gandhi </p>
 </p>

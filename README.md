@@ -105,12 +105,12 @@ Hello, I'm Dhruv Gandhi, A am Student and Lerner  From Surat,Gujarat, India, cur
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Android_Project_Create-VPN&theme=tokyonight)]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Railway_Inquire_With_GUI&theme=tokyonight)]
 
-## My GITHUB Profile Repositories Details:##
+## My GITHUB Profile Repositories Details:
 
 ![Dhruv_Gandhi's github stats](https://github-readme-stats.vercel.app/api?username=dhruvvgandhi&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvvgandhi&theme=tokyonight)
 
-
+##
 <p align="center">
  <img src="https://totallyadd.com/wp-content/uploads/2017/08/giphy.gif"> 
  <h2 align="center">I am ThankFul To You For Visiting My GITHUB Profile</h2>

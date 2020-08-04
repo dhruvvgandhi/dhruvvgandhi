@@ -6,7 +6,7 @@
 <p align="center">
  
  
- <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+ <img src="https://brennanpropertyireland.files.wordpress.com/2015/02/hello-1.gif?w=300&h=150" alt="Hello world">
 
  
  <h2 align="center">Welcome To My Repository</h2>

@@ -24,7 +24,9 @@
 
 <p align="center">
 <a href="https://www.facebook.com/ANIK.75675/">
+ <p align="center">
 <img align="left" alt="Dhruv_gandhi| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  </p>
 </a>
 <a href="https://twitter.com/_Dhruv_Gandhi_">
 <img align="left" alt="Dhruv_gandhi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />

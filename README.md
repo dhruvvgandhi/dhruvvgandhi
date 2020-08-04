@@ -22,7 +22,7 @@
   <img src="https://profile-counter.glitch.me/dhruvvgandhi/count.svg" />
 </p>
 
-
+<p align="center">
 <a href="https://www.facebook.com/ANIK.75675/">
 <img align="center" alt="Dhruv_gandhi| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
@@ -38,7 +38,7 @@
 <a href="https://www.instagram.com/neoteric_thoughts/">
 <img align="center" alt="Dhruv_gandhi Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
+</p>
 
 <br >
 <br />

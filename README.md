@@ -73,7 +73,6 @@ Hello, I'm Dhruv Gandhi, A am Student and Lerner  From Surat,Gujarat, India, cur
 - I am currently learning ML,DataScience and cybersecurity
 - Ask me about anything, I am happy to help
 - I am looking to collaborate on making any tech community
-- Pronouns She/Her
 - Fun-Fact i started my writing blogs, [blog on instagram ](https://www.instagram.com/neoteric_thoughts/) from last few years Also made a photography insta account [Apnaclick.in](https://www.instagram.com/apnaclicks.in/)
 - How to reach me:dhruvgandhi75675@gmail.com
 - [Resume](https://www.linkedin.com/in/dhruvvgandhi/)

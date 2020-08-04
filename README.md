@@ -56,7 +56,7 @@ Hello, I'm Dhruv Gandhi, A am Student and Lerner  From Surat,Gujarat, India, cur
 
 **Talking about Personal Stuffs:**
   
-  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" hight=10cm/>
+  <img align="right" alt="GIF" src="https://cdn-images-1.medium.com/max/1200/1*2xJ-TxeRusymnG9D_gY9pw.gif" />
 
 - I had previously participated in national level Hackathon and state level Hackathon
 - I am currently learning ML,DataScience and Cybersecurity

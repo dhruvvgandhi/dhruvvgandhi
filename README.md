@@ -57,7 +57,6 @@ Hello, I'm Dhruv Gandhi, A am Student and Lerner  From Surat,Gujarat, India, cur
 **Talking about Personal Stuffs:**
   
   <img align="right" alt="GIF" src="https://cdn-images-1.medium.com/max/1200/1*2xJ-TxeRusymnG9D_gY9pw.gif" />
-
 - I had previously participated in national level Hackathon and state level Hackathon
 - I am currently learning ML,DataScience and Cybersecurity
 - 💬 Ask me about anything, I am happy to help
@@ -67,7 +66,8 @@ Hello, I'm Dhruv Gandhi, A am Student and Lerner  From Surat,Gujarat, India, cur
 - 📝[Get my Resume click on this link](https://www.linkedin.com/in/dhruvvgandhi/)
 
 
-
+<br>
+<br>
 ## Connect with Me
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)

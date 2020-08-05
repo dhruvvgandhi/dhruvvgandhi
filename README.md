@@ -56,6 +56,18 @@
 
 **Talking about Personal Stuffs:**
   <img align="right" alt="GIF" src="https://cdn-images-1.medium.com/max/1200/1*2xJ-TxeRusymnG9D_gY9pw.gif" />
+  - 👧 I’m currently partcipating in as much Hackathons as I can 
+- 🌱 I’m currently learning ML 
+- 💬 Ask me about anything, I am happy to help
+<!--- 👯 I’m looking to collaborate and make any tech community-->
+- 😄 Pronouns She/Her
+- ⚡️ Fun-Fact  aI started writing blogs, [DEV blog](https://dev.to/priyankaprasad) in 2020 Also made a tech insta account [Technology.warriors](https://www.instagram.com/technology.warriors/)
+- 📫 How to reach me:priyankaafssulur@gmail.com
+- 📝[Resume](https://www.linkedin.com/in/priyanka-prasad-/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACwStgIB-o9hfF7evO6535o5_rwjkOY1904,1592374205925)/)
+
+  
+  
+  
 -👉 I had previously participated in national level Hackathon and state level Hackathon
 -👉 I am currently learning ML,DataScience and Cybersecurity
 -👉 💬 Ask me about anything, I am happy to help

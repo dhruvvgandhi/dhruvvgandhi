@@ -67,7 +67,7 @@
 
   
   
-  
+ <!--- 
 -👉 I had previously participated in national level Hackathon and state level Hackathon
 -👉 I am currently learning ML,DataScience and Cybersecurity
 -👉 💬 Ask me about anything, I am happy to help
@@ -76,7 +76,7 @@
 -👉 📫 How to reach me:dhruvgandhi75675@gmail.com
 -👉 📝Get my Resume click on this [link](https://www.linkedin.com/in/dhruvvgandhi/)
 <br>
-<br>
+<br>-->
 
 **Connect with Me:**
 

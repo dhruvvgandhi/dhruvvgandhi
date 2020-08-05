@@ -45,7 +45,7 @@
 
 **My Introduction:**
 
-Hello, I'm Dhruv Gandhi, A am Student and Lerner  From Surat,Gujarat, India, currently » doing my undergraduate B-Tech Computer Engineering (Final year) at » [@PP_Savani_University](https://ppsu.ac.in) », and I am passionate about technology and want to learn & explore new technologies.I have experiencs of Full Stack Developer at» [@Board_Infinity](https://www.boardinfinity.com/) ,Intern »,  I'm a Teamleader of Techwiz and BrainTeasers in last semester. Beside's My B-TECH, I love photography My profile Photography Page» [@apnaclicks.in](https://www.instagram.com/apnaclicks.in/), »,CyberSecurity and playing Cricket.
+👉Hello, I'm Dhruv Gandhi, A am Student and Lerner  From Surat,Gujarat, India, currently » doing my undergraduate B-Tech Computer Engineering (Final year) at » [@PP_Savani_University](https://ppsu.ac.in) », and I am passionate about technology and want to learn & explore new technologies.I have experiencs of Full Stack Developer at» [@Board_Infinity](https://www.boardinfinity.com/) ,Intern »,  I'm a Teamleader of Techwiz and BrainTeasers in last semester. Beside's My B-TECH, I love photography My profile Photography Page» [@apnaclicks.in](https://www.instagram.com/apnaclicks.in/), »,CyberSecurity and playing Cricket.
 
 
 ## My GitHub contributions as a Game of Life
@@ -56,13 +56,13 @@ Hello, I'm Dhruv Gandhi, A am Student and Lerner  From Surat,Gujarat, India, cur
 
 **Talking about Personal Stuffs:**
   <img align="right" alt="GIF" src="https://cdn-images-1.medium.com/max/1200/1*2xJ-TxeRusymnG9D_gY9pw.gif" />
-- I had previously participated in national level Hackathon and state level Hackathon
-- I am currently learning ML,DataScience and Cybersecurity
-- 💬 Ask me about anything, I am happy to help
-- I am looking to collaborate on making any tech community
-- Fun-Fact i started my writing blogs, [blog on instagram ](https://www.instagram.com/neoteric_thoughts/) from last few years Also made a photography insta account [Apnaclick.in](https://www.instagram.com/apnaclicks.in/)
-- 📫 How to reach me:dhruvgandhi75675@gmail.com
-- 📝[Get my Resume click on this link](https://www.linkedin.com/in/dhruvvgandhi/)
+👉 I had previously participated in national level Hackathon and state level Hackathon
+👉 I am currently learning ML,DataScience and Cybersecurity
+👉 💬 Ask me about anything, I am happy to help
+👉 I am looking to collaborate on making any tech community
+👉 Fun-Fact i started my writing blogs, [blog on instagram ](https://www.instagram.com/neoteric_thoughts/) from last few years Also made a photography insta account [Apnaclick.in](https://www.instagram.com/apnaclicks.in/)
+👉 📫 How to reach me:dhruvgandhi75675@gmail.com
+👉 📝Get my Resume click on this[link](https://www.linkedin.com/in/dhruvvgandhi/)
 <br>
 <br>
 

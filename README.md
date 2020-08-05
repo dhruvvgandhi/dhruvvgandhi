@@ -61,12 +61,9 @@
 - 💻 I’m Currently learning MachineLearning,DataScience and Cybersecurity
 - 💬 Ask me about anything, I am happy to help
 - 🤝 I am looking to collaborate on making any tech community
-<!--- 👯 I’m looking to collaborate and make any tech community-->
-- 😄 Pronouns She/Her
-- ⚡️ Fun-Fact  aI started writing blogs, [DEV blog](https://dev.to/priyankaprasad) in 2020 Also made a tech insta account [Technology.warriors](https://www.instagram.com/technology.warriors/)
-- 📫 How to reach me:priyankaafssulur@gmail.com
-- 📝[Resume](https://www.linkedin.com/in/priyanka-prasad-/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACwStgIB-o9hfF7evO6535o5_rwjkOY1904,1592374205925)/)
-
+- 🌟 Fun-Fact i started my writing blogs, [blog on instagram ](https://www.instagram.com/neoteric_thoughts/) from last few years Also made a photography insta account [Apnaclick.in](https://www.instagram.com/apnaclicks.in/)
+- 📧 How to reach me : dhruvgandhi75675@gmail.com
+- 📝 Get my Resume click on this [link](https://www.linkedin.com/in/dhruvvgandhi/)
   
   
  <!--- 

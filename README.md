@@ -58,8 +58,9 @@
   <img align="right" alt="GIF" src="https://cdn-images-1.medium.com/max/1200/1*2xJ-TxeRusymnG9D_gY9pw.gif" />
   
 - 👨‍ I had previously participated in national level Hackathon and state level Hackathon
-- 🌱 I’m currently learning ML 
+- 💻 I’m Currently learning MachineLearning,DataScience and Cybersecurity
 - 💬 Ask me about anything, I am happy to help
+- 🤝 I am looking to collaborate on making any tech community
 <!--- 👯 I’m looking to collaborate and make any tech community-->
 - 😄 Pronouns She/Her
 - ⚡️ Fun-Fact  aI started writing blogs, [DEV blog](https://dev.to/priyankaprasad) in 2020 Also made a tech insta account [Technology.warriors](https://www.instagram.com/technology.warriors/)

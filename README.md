@@ -45,7 +45,7 @@
 
 **My Introduction:**
 
-👉Hello, I'm Dhruv Gandhi, A am Student and Lerner  From Surat,Gujarat, India, currently » doing my undergraduate B-Tech Computer Engineering (Final year) at » [@PP_Savani_University](https://ppsu.ac.in) », and I am passionate about technology and want to learn & explore new technologies.I have experiencs of Full Stack Developer at» [@Board_Infinity](https://www.boardinfinity.com/) ,Intern »,  I'm a Teamleader of Techwiz and BrainTeasers in last semester. Beside's My B-TECH, I love photography My profile Photography Page» [@apnaclicks.in](https://www.instagram.com/apnaclicks.in/), »,CyberSecurity and playing Cricket.
+👉Hello, I'm Dhruv Gandhi 🕺, A am Student👨‍ and Lerner 💻 From 📍 Surat , Gujarat, India 🌐.♻ Currently ♻ i am doing my undergraduate B-Tech Computer Engineering 💻 (Final year) at [@PP_Savani_University](https://ppsu.ac.in)📚, and I am passionate about technology and want to learn & explore new technologies🔌. I have experiencs of intern as Full Stack Developer 💻 at [@Board_Infinity](https://www.boardinfinity.com/),I'm a Teamleader of ☣ Techwiz ♻ and ☣ BrainTeasers ♻ in Previous semester. Apart From My B-TECH Studies, I love photography My profile Photography Page 📸 [@apnaclicks.in](https://www.instagram.com/apnaclicks.in/) 📸,CyberSecurity 💻 and playing Cricket 🏏.
 
 
 ## My GitHub contributions as a Game of Life
@@ -61,7 +61,7 @@
 - 💻 I’m Currently learning MachineLearning,DataScience and Cybersecurity
 - 💬 Ask me about anything, I am happy to help
 - 🤝 I am looking to collaborate on making any tech community
-- 🌟 Fun-Fact i started my writing blogs, [blog on instagram ](https://www.instagram.com/neoteric_thoughts/) from last few years Also made a photography insta account [Apnaclick.in](https://www.instagram.com/apnaclicks.in/)
+- 🌟 Fun-Fact i started my writing blogs 📝 , [blog on instagram ](https://www.instagram.com/neoteric_thoughts/) from last few years Also made a photography 📸 insta account [Apnaclick.in](https://www.instagram.com/apnaclicks.in/)
 - 📧 How to reach me : dhruvgandhi75675@gmail.com
 - 📝 Get my Resume click on this 👉 [Resume_link](https://www.linkedin.com/in/dhruvvgandhi/)
   

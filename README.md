@@ -56,13 +56,13 @@
 
 **Talking about Personal Stuffs:**
   <img align="right" alt="GIF" src="https://cdn-images-1.medium.com/max/1200/1*2xJ-TxeRusymnG9D_gY9pw.gif" />
-👉 I had previously participated in national level Hackathon and state level Hackathon
-👉 I am currently learning ML,DataScience and Cybersecurity
-👉 💬 Ask me about anything, I am happy to help
-👉 I am looking to collaborate on making any tech community
-👉 Fun-Fact i started my writing blogs, [blog on instagram ](https://www.instagram.com/neoteric_thoughts/) from last few years Also made a photography insta account [Apnaclick.in](https://www.instagram.com/apnaclicks.in/)
-👉 📫 How to reach me:dhruvgandhi75675@gmail.com
-👉 📝Get my Resume click on this[link](https://www.linkedin.com/in/dhruvvgandhi/)
+-👉 I had previously participated in national level Hackathon and state level Hackathon
+-👉 I am currently learning ML,DataScience and Cybersecurity
+-👉 💬 Ask me about anything, I am happy to help
+-👉 I am looking to collaborate on making any tech community
+-👉 Fun-Fact i started my writing blogs, [blog on instagram ](https://www.instagram.com/neoteric_thoughts/) from last few years Also made a photography insta account [Apnaclick.in](https://www.instagram.com/apnaclicks.in/)
+-👉 📫 How to reach me:dhruvgandhi75675@gmail.com
+-👉 📝Get my Resume click on this[link](https://www.linkedin.com/in/dhruvvgandhi/)
 <br>
 <br>
 

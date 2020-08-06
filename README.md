@@ -63,7 +63,7 @@
 - 🤝 I am looking to collaborate on making any tech community
 - 🌟 Fun-Fact i started my writing blogs 📝 , [blog on instagram ](https://www.instagram.com/neoteric_thoughts/) from last few years Also made a photography 📸 insta account [Apnaclick.in](https://www.instagram.com/apnaclicks.in/)
 - 📧 How to reach me : dhruvgandhi75675@gmail.com
-- 📝 Get my Resume click on this 👉 [Resume_link](https://www.linkedin.com/in/dhruvvgandhi/)
+- 📝 Get my Resume click on this 👉 [Resume_link](https://www.linkedin.com/in/dhruvvgandhi/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACbu1sAByDuD79k1nT2SngorET6RUBS5FgM,1596726112843)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_featured%3BrUV%2B5pShRFCTP0sU0KGu8w%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_self_edit_featured-featured_item_detail_view)
   
 <br>
 <br>

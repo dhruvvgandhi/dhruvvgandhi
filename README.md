@@ -53,8 +53,7 @@
 
 
 **Talking about Personal Stuffs:**
-  <img align="right" alt="GIF" src="https://cdn-images-1.medium.com/max/1200/1*2xJ-TxeRusymnG9D_gY9pw.gif" />
-  
+  <a href="https://github.com/tirtharajghosh/"><img align="right" width="350" height="263" src="https://github.com/tirtharajghosh/tirtharajghosh/blob/master/aboutme.gif"></a>
 - 👨‍ I had previously participated in national level Hackathon and state level Hackathon
 - 💻 I’m Currently learning MachineLearning,DataScience and Cybersecurity
 - 💬 Ask me about anything, I am happy to help

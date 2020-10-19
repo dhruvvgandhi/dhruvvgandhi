@@ -128,6 +128,14 @@
 ![Dhruv_Gandhi's github stats](https://github-readme-stats.vercel.app/api?username=dhruvvgandhi&count_private=true&show_icons=true&hide=issues,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvvgandhi&layout=compact)
 
+## 🚀 My Projects:
+<p align="center">
+<a href="https://github.com/dhruvvgandhi/steganography-and-encryption">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=steganography-and-encryption&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+<a href="https://github.com/tirtharajghosh/Sorting-Algorithm-Visualizer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tirtharajghosh&repo=Sorting-Algorithm-Visualizer&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+
+
 **My Recent Project Repositories:**
 <br>
 <br>

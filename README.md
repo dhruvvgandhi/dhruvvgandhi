@@ -10,7 +10,9 @@
 <h3> 👦 Dhruv Gandhi | 👨‍💻 Software Engineer | 🌏 Surat,Gujarat, India </h3>
 
 </div>
-## My Contact 
+## 
+**Connect with Me:**
+<br>
 <div align="center">
 <p align="center">
 <a href="https://www.linkedin.com/in/dhruvvgandhi/">

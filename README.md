@@ -160,13 +160,19 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Embedded_system_project&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
 
 <a href="https://github.com/dhruvvgandhi/webdesiging">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=webdesiging&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
-<a href="https://github.com/dhruvvgandhi/Smart-Attendance-System-Using-Bluetooth-Beacon">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=webdesiging&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
   
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Smart-Attendance-System-Using-Bluetooth-Beacon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+<a href="https://github.com/dhruvvgandhi/Smart-Attendance-System-Using-Bluetooth-Beacon">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Smart-Attendance-System-Using-Bluetooth-Beacon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
 </p>
 
 
+## 🚀 My Educational Repositories:
+<p align="center">
+  <a href="https://github.com/dhruvvgandhi/steganography-and-encryption">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=steganography-and-encryption&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+  </p>
 ##
 <p align="center">
  <img src="https://totallyadd.com/wp-content/uploads/2017/08/giphy.gif"> 

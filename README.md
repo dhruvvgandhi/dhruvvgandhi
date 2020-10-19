@@ -160,21 +160,11 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Embedded_system_project&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
 
 <a href="https://github.com/dhruvvgandhi/webdesiging">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Embedded_system_project&repo=webdesiging&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=webdesiging&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
 <a href="https://github.com/dhruvvgandhi/Smart-Attendance-System-Using-Bluetooth-Beacon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Embedded_system_project&repo=Smart-Attendance-System-Using-Bluetooth-Beacon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
-
-
-**My Recent Project Repositories:**
-<br>
-<br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=steganography-and-encryption&theme=tokyonight)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Wireless_Car&theme=tokyonight)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=django-python-project&theme=tokyonight)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Reciprocity&theme=tokyonight)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=hms-hospitalmanagementsytem-in-java&theme=tokyonight)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Android_Project_Create-VPN&theme=tokyonight)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Railway_Inquire_With_GUI&theme=tokyonight)]
+  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Smart-Attendance-System-Using-Bluetooth-Beacon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+</p>
 
 
 ##

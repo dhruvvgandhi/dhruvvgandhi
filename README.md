@@ -93,10 +93,12 @@
 <p align="center">
  <br/>
 <br/>
-<img src="https://img.shields.io/badge/OS-Windows%2010-informational?style=for-the-badge&logo=windows&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Browser-Chrome-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-
+<img src="https://img.shields.io/badge/OS-Windows%2010-informational?style=for-the-badge&logo=windows&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Kali-linux%2010-informational?style=for-the-badge&logo=windows&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Android%2010-informational?style=for-the-badge&logo=Android&logoColor=white" />&nbsp;&nbsp;  
+<img src="https://img.shields.io/badge/Browser-Chrome-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Browser-epic%20-informational?style=for-the-badge&logo=google-chrome&&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 **My Recent Project Repositories:**

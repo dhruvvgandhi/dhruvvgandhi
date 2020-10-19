@@ -35,10 +35,10 @@
 <a href="https://t.me/Iknowaboutyou">
   <img src="https://img.shields.io/badge/-Telegram-%231a91da?style=flat&logo=Telegram&logoColor=white">
 </a>
- 
+ <!--
 <a href="https://github.com/dhruvvgandhi"> 
   <img src="https://komarev.com/ghpvc/?username=dhruvvgandhi&label=Visitors&color=2e8b57&style=flat" />
- </a>
+ </a>--->
 </p>
 <br >
 <br />

@@ -3,19 +3,14 @@
 <div align="center">
   <h1> Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
+<div align="center">
 <p align="center">
  <img src="https://brennanpropertyireland.files.wordpress.com/2015/02/hello-1.gif?w=300&h=150" alt="Hello There">
 <div align="center">
 <h3> 👦 Dhruv Gandhi | 👨‍💻 Software Engineer | 🌏 Surat,Gujarat, India </h3>
 </div>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/dhruvvgandhi/count.svg" />
-</p>
-
-
-
+</div>
+<div align="center">
 <p align="center">
 <a href="https://www.linkedin.com/in/dhruvvgandhi/">
   <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
@@ -39,7 +34,12 @@
 <a href="https://github.com/dhruvvgandhi"> 
   <img src="https://komarev.com/ghpvc/?username=dhruvvgandhi&label=Visitors&color=2e8b57&style=flat" />
  </a>--->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/dhruvvgandhi/count.svg" />
 </p>
+</p>
+</div>
 <br >
 <br />
 

@@ -126,6 +126,12 @@
 </p>
 
 <p>&nbsp;</p>
+
+## My GITHUB Profile Repositories Details:
+
+![Dhruv_Gandhi's github stats](https://github-readme-stats.vercel.app/api?username=dhruvvgandhi&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvvgandhi&theme=tokyonight)
+
 **My Recent Project Repositories:**
 <br>
 <br>
@@ -137,10 +143,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Android_Project_Create-VPN&theme=tokyonight)]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Railway_Inquire_With_GUI&theme=tokyonight)]
 
-## My GITHUB Profile Repositories Details:
-
-![Dhruv_Gandhi's github stats](https://github-readme-stats.vercel.app/api?username=dhruvvgandhi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvvgandhi&theme=tokyonight)
 
 ##
 <p align="center">

@@ -102,22 +102,22 @@
 ## ☎️ Contact Me:
 <p align="center">
 <a href="https://www.linkedin.com/in/dhruvvgandhi/">
-  <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
+  <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&labelColor=blue">
 </a>
 <a href="mailto:contact.dhruv.gandhi@gmail.com?subject=Hello%20Dhruv,%20From%20Github">
-  <img src="https://img.shields.io/badge/-Gmail-%23db483b?style=flat&logo=Gmail&labelColor=red&logoColor=white">
+  <img src="https://img.shields.io/badge/-Gmail-%23db483b?style=for-the-badge&logo=Gmail&labelColor=red&logoColor=white">
 </a>
 <a href="https://www.facebook.com/ANIK.75675/">
-  <img src="https://img.shields.io/badge/-Facebook-%230d8bf1?style=flat&logo=Facebook&logoColor=white">
+  <img src="https://img.shields.io/badge/-Facebook-%230d8bf1?style=for-the-badge&logo=Facebook&logoColor=white">
 </a>
 <a href="https://www.instagram.com/neoteric_thoughts/">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <a href="https://twitter.com/_Dhruv_Gandhi_">
-  <img src="https://img.shields.io/badge/-Twitter-%231a91da?style=flat&logo=Twitter&logoColor=white">
+  <img src="https://img.shields.io/badge/-Twitter-%231a91da?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
 <a href="https://t.me/Iknowaboutyou">
-  <img src="https://img.shields.io/badge/-Telegram-%231a91da?style=flat&logo=Telegram&logoColor=white">
+  <img src="https://img.shields.io/badge/-Telegram-%231a91da?style=for-the-badge&logo=Telegram&logoColor=white">
 </a>
 </p>
 

@@ -6,11 +6,9 @@
 <div align="center">
 <p align="center">
  <img src="https://brennanpropertyireland.files.wordpress.com/2015/02/hello-1.gif?w=300&h=150" alt="Hello There">
-
 <h3> 👦 Dhruv Gandhi | 👨‍💻 Software Engineer | 🌏 Surat,Gujarat, India </h3>
-
 </div>
-## 
+<br>
 **Connect with Me:**
 <br>
 <div align="center">

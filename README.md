@@ -170,8 +170,42 @@
 
 ## 🚀 My Educational Repositories:
 <p align="center">
-  <a href="https://github.com/dhruvvgandhi/steganography-and-encryption">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=steganography-and-encryption&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+  <a href="https://github.com/dhruvvgandhi/AI-PRACTICAL">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=AI-PRACTICAL&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+  <a href="https://github.com/dhruvvgandhi/MachineLearning-Practical">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=MachineLearning-Practical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+  <a href="https://github.com/dhruvvgandhi/system_software_practical">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=system_software_practical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+  <a href="https://github.com/dhruvvgandhi/IOT-PRACTICAL">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=IOT-PRACTICAL&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+  
+  <a href="https://github.com/dhruvvgandhi/Flutter-Api-Handling">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Flutter-Api-Handling&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+  
+  <a href="https://github.com/dhruvvgandhi/Flutter-Widget">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Flutter-Widget&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+  
+  <a href="https://github.com/dhruvvgandhi/Data_Structures">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Data_Structures&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+  
+  <a href="https://github.com/dhruvvgandhi/Python-practical">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Python-practical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+  
+  <a href="https://github.com/dhruvvgandhi/Software_Engineering">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Software_Engineering&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+  
+  <a href="https://github.com/dhruvvgandhi/design_analysis_algorithm">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=design_analysis_algorithm&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+  
+  <a href="https://github.com/dhruvvgandhi/Computer_Organization">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Computer_Organization&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+  
+  <a href="https://github.com/dhruvvgandhi/Computer_Graphics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Computer_Graphics&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+  
+  <a href="https://github.com/dhruvvgandhi/Operating_system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Operating_system&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+  
   </p>
 ##
 <p align="center">

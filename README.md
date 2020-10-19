@@ -127,7 +127,7 @@
 
 <p>&nbsp;</p>
 
-## My GITHUB Profile Repositories Details:
+## 📈 My Stats: 
 
 ![Dhruv_Gandhi's github stats](https://github-readme-stats.vercel.app/api?username=dhruvvgandhi&count_private=true&show_icons=true&hide=issues,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvvgandhi&layout=compact)

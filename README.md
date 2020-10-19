@@ -136,6 +136,33 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Neotric_thought_blog_App&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
 <a href="https://github.com/dhruvvgandhi/Flutter-Covid19-DashBoard">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Flutter-Covid19-DashBoard&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+<a href="https://github.com/dhruvvgandhi/django-python-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=django-python-project&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+
+<a href="https://github.com/dhruvvgandhi/Wireless_Car">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Wireless_Car&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+
+<a href="https://github.com/dhruvvgandhi/Reciprocity">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Reciprocity&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+
+<a href="https://github.com/dhruvvgandhi/Railway_Bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Railway_Bot&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+
+<a href="https://github.com/dhruvvgandhi/Railway_Inquire_With_GUI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Railway_Inquire_With_GUI&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+<a href="https://github.com/dhruvvgandhi/Android_Project_Create-VPN">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Android_Project_Create-VPN&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+
+<a href="https://github.com/dhruvvgandhi/hms-hospitalmanagementsytem-in-java">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=hms-hospitalmanagementsytem-in-java&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>  
+
+<a href="https://github.com/dhruvvgandhi/Embedded_system_project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Embedded_system_project&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+
+<a href="https://github.com/dhruvvgandhi/webdesiging">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Embedded_system_project&repo=webdesiging&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+<a href="https://github.com/dhruvvgandhi/Smart-Attendance-System-Using-Bluetooth-Beacon">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Embedded_system_project&repo=Smart-Attendance-System-Using-Bluetooth-Beacon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
 
 
 **My Recent Project Repositories:**

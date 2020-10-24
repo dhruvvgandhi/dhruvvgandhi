@@ -31,7 +31,7 @@
 
 👉Hello, I'm Dhruv Gandhi 🕺, A am Student👨‍ and Lerner 💻 From 📍 Surat , Gujarat, India 🌐.♻ Currently ♻ i am doing my undergraduate studies as B-Tech Computer Engineering 💻 (Final year) at [@PP_Savani_University](https://ppsu.ac.in)📚, and I am passionate about technology and want to learn & explore new technologies🔌. I have experiencs of intern as Full Stack Developer 💻 at [@Board_Infinity](https://www.boardinfinity.com/),I'm a Teamleader of ☣ Techwiz ♻ and ☣ BrainTeasers ♻ in Previous semester. Apart From My B-TECH Studies, I love photography My profile Photography Page 📸 [@apnaclicks.in](https://www.instagram.com/apnaclicks.in/) 📸,CyberSecurity 💻 and playing Cricket 🏏.
 
-**My GitHub contributions as a Game of Life:**
+<!--**My GitHub contributions as a Game of Life:**
 [![GitHub Game of Life](https://github4life.herokuapp.com/dhruvvgandhi.gif?z=6)](https://github4life.herokuapp.com/dhruvvgandhi)
 
 **Talking about Personal Stuffs:**

@@ -7,7 +7,7 @@
 <p align="center">
  <img src="https://brennanpropertyireland.files.wordpress.com/2015/02/hello-1.gif?w=300&h=150" alt="Hello There">
   <h1>👨🏻‍💻 Dhruv Gandhi 👨🏻‍💻 </h1>
-<h3> 👨‍💻 Software Engineer at [@DhiWise](https://dhiwise.com)👦 | 🌏 Surat,Gujarat, India </h3>
+<h3> 👨‍💻 Software Engineer 👦 | 🌏 Surat,Gujarat, India </h3>
 </div>
 <div align="center">
 <p align="center">

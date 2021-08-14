@@ -95,9 +95,6 @@
 <a href="mailto:contact.dhruv.gandhi@gmail.com?subject=Hello%20Dhruv,%20From%20Github">
   <img src="https://img.shields.io/badge/-Gmail-%23db483b?style=flat&logo=Gmail&labelColor=red&logoColor=white">
 </a>
-<a href="https://www.facebook.com/ANIK.75675/">
-  <img src="https://img.shields.io/badge/-Facebook-%230d8bf1?style=flat&logo=Facebook&logoColor=white">
-</a>
 <a href="https://www.instagram.com/neoteric_thoughts/">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white">
 </a>

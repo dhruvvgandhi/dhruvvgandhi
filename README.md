@@ -200,5 +200,5 @@
  <img src="https://totallyadd.com/wp-content/uploads/2017/08/giphy.gif"> 
  <h2 align="center">I am ThankFul To You For Visiting My GITHUB Profile</h2>
   <h2 align="center">Hope You Like My GITHUB Profile</h2>
- <h2 align="center">Dhruv Vimeshkumar Gandhi </h2>
+ <h2 align="center">Dhruv Gandhi </h2>
 </p>

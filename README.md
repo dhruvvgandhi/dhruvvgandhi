@@ -11,7 +11,7 @@
 </div>
 <div align="center">
 <p align="center">
-<a href="https://www.linkedin.com/in/dhruvvgandhi/">
+<a href="https://bit.ly/dhruvvgandhii_linkedin">
   <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
  <!--

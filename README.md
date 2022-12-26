@@ -89,16 +89,16 @@
 
 ## ☎️ Contact Me:
 <p align="center">
-<a href="https://www.linkedin.com/in/dhruvvgandhi/">
+<a href="https://bit.ly/dhruvvgandhii_linkedin">
   <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 <a href="mailto:contact.dhruv.gandhi@gmail.com?subject=Hello%20Dhruv,%20From%20Github">
   <img src="https://img.shields.io/badge/-Gmail-%23db483b?style=flat&logo=Gmail&labelColor=red&logoColor=white">
 </a>
-<a href="https://www.instagram.com/neoteric_thoughts/">
+<a href="https://bit.ly/dhruvvgandhii_instagram">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white">
 </a>
-<a href="https://twitter.com/_Dhruv_Gandhi_">
+<a href="https://bit.ly/Dhruv_Gandhi_Twitter">
   <img src="https://img.shields.io/badge/-Twitter-%231a91da?style=flat&logo=Twitter&logoColor=white">
 </a>
 <a href="https://t.me/Iknowaboutyou">
